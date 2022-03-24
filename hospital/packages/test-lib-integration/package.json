@@ -1,0 +1,17 @@
+{
+  "name": "test-lib-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc src/index.ts && node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hospital-sdk/doctor": "^0.0.0",
+    "@hospital-sdk/patient": "^0.0.0",
+    "@hospital-sdk/scheduler": "^0.0.0"
+  }
+}

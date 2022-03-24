@@ -1,5 +1,5 @@
 {
-  "name": "scheduler",
+  "name": "@hospital-sdk/scheduler",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "Edgar Perez <edgarp.dev@gmail.com>",

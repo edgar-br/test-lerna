@@ -1,5 +1,5 @@
 {
-  "name": "doctor",
+  "name": "@hospital-sdk/doctor",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "Edgar Perez <edgarp.dev@gmail.com>",
